@@ -1,1 +1,2 @@
 # coinCombo
+Check git connection
